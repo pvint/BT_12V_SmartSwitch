@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name BT)(type Legacy)(uri ${KIPRJMOD}/XCVR_RN-42-N.mod)(options "")(descr ""))
+  (lib (name BTModule)(type KiCad)(uri ${KIPRJMOD}/ATBTLC1000-MR110CA.kicad_mod)(options "")(descr ""))
+  (lib (name BT_12v)(type KiCad)(uri ${KIPRJMOD}/bt12v.kicad_mod)(options "")(descr ""))
+  (lib (name 00TEST)(type KiCad)(uri ${KIPRJMOD}/test.kicad_mod)(options "")(descr ""))
+)
